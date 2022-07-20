@@ -19,16 +19,8 @@ I’m a full-stack developer 👨‍💻 working at [OKP4](https://okp4.network/
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on [OKP4](https://okp4.network/) protocol  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
