@@ -12,14 +12,15 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer 👨‍💻 working at [OKP4](https://okp4.network/) since June 2022 🚀  
+I’m a full-stack developer 👨‍💻 .
+I worked at [OKP4](https://okp4.network/) for one year, from June 2022 to May 2023 🚀  
   
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on [OKP4](https://okp4.network/) protocol  
+- 🔭 I'm currently working on a number of personal projects.
   
 
 <br/>  
